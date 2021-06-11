@@ -1,0 +1,9 @@
+.desc {
+  font-size: small;
+  background-color: black;
+  color: hsl(43, 97%, 49%);
+}
+.star {
+  display: flex;
+  justify-content: space-evenly;
+}

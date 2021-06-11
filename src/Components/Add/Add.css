@@ -1,0 +1,15 @@
+.label {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  text-align: center;
+  cursor: pointer;
+}
+.inp {
+  text-align: center;
+  margin: 10px;
+}
+.title {
+  font-family: serif;
+  color: red;
+  margin-left: 100px;
+}

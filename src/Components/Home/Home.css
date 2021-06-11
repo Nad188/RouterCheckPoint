@@ -1,0 +1,21 @@
+.Search {
+  margin: 0 50px 0 30px;
+  text-align: center;
+}
+.txt {
+  font-size: large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.logo {
+  width: 50px;
+  margin-right: 50px;
+}
+.ftr {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  padding: 12px;
+  color: blanchedalmond;
+  box-shadow: 0 0 6px;
+}
